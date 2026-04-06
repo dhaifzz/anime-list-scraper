@@ -1,0 +1,17 @@
+*.pyc
+__pycache__/
+*.egg-info/
+dist/
+build/
+.DS_Store
+*.ipynb
+*.docx
+*.pdf
+*.xlsx
+*.exe
+*.gif
+*.jpg
+*.png
+*.mp4
+*.zip
+.env
